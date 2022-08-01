@@ -25,7 +25,7 @@
     </div>
 </div>
 
-<div id="killPhoneModel" class="modal fade">
+<div id="killPhoneModal" class="modal fade">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -75,7 +75,7 @@
             seckillId: ${seckill.seckillId},
             startTime: ${seckill.startTime.time},
             endTime: ${seckill.endTime.time}
-        })
+        });
     });
 </script>
 

@@ -23,6 +23,8 @@ public class SeckillExecution {
 
     private SeckillStatEnum statEnum;
 
+
+
     public SeckillExecution(long seckillId, int state, String stateInfo) {
         this.seckillId = seckillId;
         this.state = state;
@@ -30,6 +32,7 @@ public class SeckillExecution {
     }
 
     public SeckillExecution(long seckillId, SeckillStatEnum statEnum) {
+        System.out.println("调用Enum");
         this.seckillId = seckillId;
         this.statEnum = statEnum;
     }
