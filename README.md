@@ -50,26 +50,26 @@
 
 ##### 商品界面
 
-![]()
+![](https://raw.githubusercontent.com/Yangxiaohan0120/SecKill/master/src/main/resources/images/1.png)
 
 ##### 秒杀登记手机号
 
-![]()
+![](https://raw.githubusercontent.com/Yangxiaohan0120/SecKill/master/src/main/resources/images/2.png)
 
 ##### 秒杀已结束
 
-![]()
+![](https://raw.githubusercontent.com/Yangxiaohan0120/SecKill/master/src/main/resources/images/3.png)
 
 ##### 秒杀进行中
 
-![]()
+![](https://raw.githubusercontent.com/Yangxiaohan0120/SecKill/master/src/main/resources/images/4.png)
 
 ##### 秒杀未开始
 
-![]()
+![](https://raw.githubusercontent.com/Yangxiaohan0120/SecKill/master/src/main/resources/images/6.png)
 
 ##### 秒杀成功
 
-![]()
+![](https://raw.githubusercontent.com/Yangxiaohan0120/SecKill/master/src/main/resources/images/5.png)
 
 
