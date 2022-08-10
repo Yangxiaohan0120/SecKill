@@ -30,21 +30,21 @@
 
 ### 功能模块
 
-[Entity（实体类）]()
+[Entity（实体类）](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/entity)
 
-[DAO（持久化）]()
+[DAO（持久化）](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/dao)
 
-[DTO（数据传输）]()
+[DTO（数据传输）](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/dto)
 
-[秒杀状态]()
+[秒杀状态](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/enum)
 
-[异常类型]()
+[异常类型](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/exception)
 
-[Service（执行）]()
+[Service（执行）](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/service)
 
-[Controller（url传递）]()
+[Controller（url传递）](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/web)
 
-[Mapper（sql语句）]()
+[Mapper（sql语句）](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/resources/mappers)
 
 ### 展示界面
 
