@@ -36,7 +36,7 @@
 
 [DTO（数据传输）](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/dto)
 
-[秒杀状态](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/enum)
+[秒杀状态](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/enums)
 
 [异常类型](https://github.com/Yangxiaohan0120/SecKill/tree/master/src/main/java/exception)
 
