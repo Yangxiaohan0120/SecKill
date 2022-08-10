@@ -145,6 +145,7 @@
             <artifactId>jedis</artifactId>
             <version>2.7.3</version>
         </dependency>
+
         <!-- 使用谷歌开发的protostuff进行序列化优化 -->
         <dependency>
             <groupId>com.dyuproject.protostuff</groupId>
